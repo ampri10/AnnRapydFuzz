@@ -1,0 +1,2 @@
+# AnnRapydFuzz
+Efficient string matcher
